@@ -245,12 +245,13 @@ namespace 文件同步系统
 
             if (result == DialogResult.OK)
             {
-                this.Dispose();   //关闭当前窗口，释放该窗口占用的资源
+                this.Dispose(); //关闭当前窗口，释放该窗口占用的资源
+                 
             }
         }
 
 
-        private void Form2_FormClosing(object sender, FormClosingEventArgs e) 
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e) //关闭窗口时提醒
         {
             DialogResult result = MessageBox.Show("你确定要关闭当前同步任务吗？", "提示信息",
                 MessageBoxButtons.OKCancel, MessageBoxIcon.Information);  //获取消息提示框的返回值

@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("文件同步系统")]
-[assembly: AssemblyDescription("新增多个同步任务同时执行功能")]
+[assembly: AssemblyDescription("此版本为18.1.1.2升级版，主要更新是只能打开一个实例程序。")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("文件同步系统")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 // 方法是按如下所示使用“*”: :
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("18.01.01.02")]
-[assembly: AssemblyFileVersion("18.01.01.02")]
+[assembly: AssemblyVersion("18.01.01.03")]
+[assembly: AssemblyFileVersion("18.01.01.03")]
