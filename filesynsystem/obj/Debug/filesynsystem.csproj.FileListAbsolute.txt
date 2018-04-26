@@ -1,0 +1,26 @@
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\bin\Debug\filesynsystem.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\bin\Debug\filesynsystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\bin\Debug\filesynsystem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\obj\Debug\filesynsystem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\obj\Debug\filesynsystem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\obj\Debug\filesynsystem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\filesynsystem\filesynsystem\obj\Debug\filesynsystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Debug\filesynsystem.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.csproj.GenerateResource.Cache
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.exe.config
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.exe
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.pdb
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.exe
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\bin\Debug\filesynsystem.pdb
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.Form1.resources
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.Properties.Resources.resources
+E:\Visual Studio\Projects\文件同步系统v1\filesynsystem\obj\Debug\filesynsystem.csproj.GenerateResource.Cache

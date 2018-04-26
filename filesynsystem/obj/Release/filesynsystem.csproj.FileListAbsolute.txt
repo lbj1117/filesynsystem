@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\bin\Release\filesynsystem.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\bin\Release\filesynsystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\bin\Release\filesynsystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Release\filesynsystem.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Release\filesynsystem.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Release\filesynsystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Release\filesynsystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\filesynsystem\filesynsystem\obj\Release\filesynsystem.pdb
